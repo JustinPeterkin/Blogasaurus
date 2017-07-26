@@ -1,0 +1,39 @@
+h2{
+  color:white
+}
+
+body{
+  background-color: grey
+
+}
+
+#csi {
+    text-align: center;
+
+}
+
+#logo {
+    height: 225px ;
+    width: 225px ;
+}
+
+#curtis {
+    text-align: center;
+
+
+
+}
+#wall {
+    position: absolute;
+    height: 350px;
+    width: 1000px;
+    left: ;
+    top: ;
+    margin: 0 0 0 0;
+    /* margin: top right bottom left; */
+    background: #CCFF99;
+}
+
+h1{
+  text-align: center;
+}
